@@ -1,0 +1,14 @@
+Table,Desk,100,Blue,Bedroom
+JAN,  340,  360,  417
+Jack,Male,Police Officer,,,10,20-10-1990
+   40,   59,   24, "N",     75,   11,   24, "W", "Stroudsburg", PA
+Astronomy 101,Dr. Elizabeth Roberts,Astronomy,120,1,1
+Business,Corporation,Financial Services,USA,Yes,Yes,No
+ 53, 1.833, 54
+13, 4892, 5, 6,   32311, 2005, 799900
+81, 2008, 50, "Daniel Day-Lewis", "There Will Be Blood"
+Banana,Yellow,Fruits,Fruit&Vegetables,0.232,300 kcal
+142, 160, 28, 10, 5, 3,  60, 0.28,  3167
+    "Z",     93172,  0.0
+ 4, "Deadpool DVD",                   14.96, 1.12, 16.08
+F.C. Barcelona, Lionel Messi, Argentinian, 1987,2005,0,3,9
